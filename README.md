@@ -21,9 +21,9 @@ I am an AI Developer specializing in **Computer Vision** and **Deep Learning**. 
 ## 🎓 Education & Certifications
 - **B.Tech in Artificial Intelligence and Data Science**
 - **Coursera Certifications**
-    - Machine Learning Specialization 
+    - Machine Learning Specialization [🔗](https://coursera.org/share/07644adb9ed27815c8545c1ac7f7fb36)
 - **NVIDIA Certifications:**
-    - Fundamentals of Deep Learning
+    - Fundamentals of Deep Learning 
     - Getting Started with Deep Learning
     - Building Video AI Application at the Edge on Jetson Nano
 
