@@ -1,32 +1,90 @@
-# 👋 Hello, I'm Raghul P.
+# 👋 Hi, I’m Raghul P
 
-I am an AI Developer specializing in **Computer Vision** and **Deep Learning**. With a strong foundation in both the theoretical and practical aspects of AI, I am passionate about solving complex problems using cutting-edge technologies.
+I’m a **Machine Learning / Computer Vision Engineer** focused on building **production-grade AI systems** — from model development to scalable deployment across edge and cloud environments.
 
-## 🧠 Expertise
-- **Programming Languages & Tools:**
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+I work at the intersection of **Computer Vision, backend systems, and MLOps**, with hands-on experience taking AI products from **0 → production → scale** in real-world, latency-sensitive systems.
 
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+---
 
-  
-- **Technologies & Concepts:**
-  - Deep Neural Networks (DNNs)
-  - Convolutional Neural Networks (CNNs)
-  - Object Detection, Segmentation, Tracking
-  - Design Patterns, Actor Model for Concurrency, Software Architecture
-  - CI/CD, Gitflow, GitHub, Jenkins, DVC, MLFlow, DagsHub
-- **Hardware:** Nvidia Jetson Nano, Raspberry Pi
+## 🧠 What I work on
+
+### 🔹 Computer Vision & ML
+- Object Detection, Segmentation, Tracking
+- Real-time vision pipelines for industrial and edge use-cases
+- Model optimization for latency, throughput, and accuracy
+- CNNs, Transformers, classical + deep CV methods
+
+### 🔹 ML Systems & MLOps
+- End-to-end ML pipelines (data → training → deployment → monitoring)
+- Model serving using **NVIDIA Triton Inference Server**
+- Experiment tracking, dataset versioning, and reproducibility
+- Production monitoring and observability for ML systems
+
+### 🔹 Backend & Distributed Systems
+- Python-based backend services (**FastAPI**, **gRPC**)
+- Service-to-service communication and API design
+- Event-driven and modular system architectures
+- Debugging and performance tuning of production systems
+
+### 🔹 Edge AI & Deployment
+- Deployment and monitoring of AI systems on a fleet of **1500+ edge devices**
+- Hands-on experience with **NVIDIA Jetson** and **Raspberry Pi**
+- Designing resilient systems for remote and resource-constrained environments
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**  
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Backend & APIs**  
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Datastores & Data**  
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge)
+
+**MLOps, DevOps & Observability**  
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
+![Prefect](https://img.shields.io/badge/Prefect-1F3A8A?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+**Edge & Hardware**  
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA-CUDA-green?style=for-the-badge&logo=nvidia)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
+
+---
 
 ## 🎓 Education & Certifications
-- **B.Tech in Artificial Intelligence and Data Science**
-- **Coursera Certifications**
-    - Machine Learning Specialization [📑](https://coursera.org/share/07644adb9ed27815c8545c1ac7f7fb36)
-- **NVIDIA Certifications:**
-    - Fundamentals of Deep Learning 
-    - Getting Started with Deep Learning
-    - Building Video AI Application at the Edge on Jetson Nano
+- **B.Tech — Artificial Intelligence & Data Science**
+- **DeepLearning.AI – Machine Learning Specialization**
+- **NVIDIA Certifications**
+  - Fundamentals of Accelerated Computing with CUDA
+  - Building Video AI Applications on Jetson Nano
 
-## 🚀 Goals
-I am on a continuous journey to deepen my expertise in AI and Deep Learning, with the aspiration of becoming a leading expert in the field.
+---
 
+## 🚀 Interests
+- Building **AI-first products** with real-world impact
+- **ML systems engineering** and large-scale deployments
+- **Computer vision for robotics, security, and industrial automation**
+- Solving hard engineering problems at the system and infrastructure level
+
+---
+
+📫 **Let’s connect**
+- LinkedIn: https://linkedin.com/in/raghul-p  
+- Email: raghulp.dev03@gmail.com
